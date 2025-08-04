@@ -18,9 +18,7 @@ export default function Home() {
 
 
 
-        <p className="text-lg text-center max-w-xl mb-6">
-          I'm a video editor, storyteller, and creative thinker. I help brands craft engaging content that connects and converts.
-        </p>
+        
         <a
           href="mailto:fahad@example.com"
           className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition"
