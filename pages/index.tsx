@@ -10,7 +10,14 @@ export default function Home() {
       </Head>
 
       <main className="min-h-screen flex flex-col items-center justify-center bg-white text-gray-800 px-4">
-        <h1 className="text-5xl font-bold mb-4">Hi, I'm Fahad Qaseem</h1>
+        
+        <h1 className="text-5xl font-bold mb-4">Hi, I&#39;m Fahad Qaseem</h1>
+        <p>... I help brands craft engaging content that connects and converts.</p>
+
+
+
+
+
         <p className="text-lg text-center max-w-xl mb-6">
           I'm a video editor, storyteller, and creative thinker. I help brands craft engaging content that connects and converts.
         </p>
